@@ -1,2 +1,2 @@
 # info-c
-An educational C99 compiler
+An bad C99 compiler
